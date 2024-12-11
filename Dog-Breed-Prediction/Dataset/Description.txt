@@ -1,1 +1,5 @@
-All info
+All info of the given project is availabel in the given link 
+
+The data we're using is from Kaggle's dog breed identification competition.
+
+https://www.kaggle.com/c/dog-breed-identification/data
