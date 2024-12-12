@@ -1,0 +1,1 @@
+Callbacks are functions or pieces of code that are executed during specific stages of the training process in machine learning. They provide a way to interact with the training loop and customize its behavior without modifying the core training logic. This is particularly useful in deep learning frameworks like TensorFlow/Keras, PyTorch, and others.
