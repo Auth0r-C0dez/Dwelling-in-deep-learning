@@ -1,0 +1,1 @@
+A notebook where i have created and improved a neural network for regression of a mathematic equation namely Y = X + 10.
