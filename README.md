@@ -36,4 +36,23 @@ This repository covers a variety of technologies, including but not limited to:
 - Scikit-Learn, OpenCV, Hugging Face Transformers
 - Jupyter Notebooks, Google Colab
 
+  ## 🤝 Contributing
+
+Contributions are welcome! If you want to add a project or improve an existing one:
+
+1. Fork the repository
+2. Create a new branch (`feature/project-name`)
+3. Commit your changes
+4. Submit a pull request
+
+## 📜 License
+
+This repository is licensed under the MIT License.
+
+## 📬 Contact
+
+For any questions or suggestions, feel free to open an issue or reach out via GitHub.
+
+Happy coding! 🎉
+
 
